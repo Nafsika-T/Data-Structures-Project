@@ -11,8 +11,8 @@ The implementation is done **without the use of external libraries**, except for
 1. **Unsorted Array** (`UnSorted`)
 2. **Sorted Array** (`Sorted`)
 3. **Hash Table** (`HashTable`)
-4. **Binary Search Tree (BST)`**
-5. **Balanced Binary Search Tree (AVL Tree)`**
+4. **Binary Search Tree** (BST)
+5. **Balanced Binary Search Tree** (AVL Tree)
 
 ---
 
@@ -47,6 +47,7 @@ The implementation is done **without the use of external libraries**, except for
 | `AVL.h/cpp`       | Balanced AVL Tree (inherits from BST)           |
 | `clean.h`         | String cleaning function (punctuation + casing) |
 | `gutenberg.txt`   | Input file (not included in repo)                |
+| `small-file.txt`   | Input file (included in repo)                |
 
 ---
 
